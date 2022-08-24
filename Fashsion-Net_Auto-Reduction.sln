@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Fashsion-Net_Auto-Reduction", "Fashsion-Net_Auto-Reduction\Fashsion-Net_Auto-Reduction.pyproj", "{6C56F09B-1398-4487-B431-B1C236D56C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C56F09B-1398-4487-B431-B1C236D56C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C56F09B-1398-4487-B431-B1C236D56C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59963AF9-B649-4F7A-AE6E-423BB22FAF1F}
+	EndGlobalSection
+EndGlobal
